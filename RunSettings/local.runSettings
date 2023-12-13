@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <RunConfiguration>
+        <EnvironmentVariables>
+            <ASPNETCORE_ENVIRONMENT>Local</ASPNETCORE_ENVIRONMENT>
+            <BROWSERSTACK_USER>your user name</BROWSERSTACK_USER>
+            <BROWSERSTACK_KEY>your BS key</BROWSERSTACK_KEY>
+        </EnvironmentVariables>
+    </RunConfiguration>
+</RunSettings>
